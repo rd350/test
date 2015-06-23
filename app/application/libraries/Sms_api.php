@@ -3,8 +3,8 @@
 class Sms_api {
  
     //change this to the actual user and password
-    private $username = 'rd350';
-    private $password = 'smssys123@';
+    private $username = 'username';
+    private $password = 'pass';
     private $url      = 'http://cloud.smsindiahub.in/vendorsms/pushsms.aspx';
     private $sid      = 'WEBSMS'; 
      
